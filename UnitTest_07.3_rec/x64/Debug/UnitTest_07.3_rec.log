@@ -1,0 +1,5 @@
+﻿  UnitTest_07.3_rec.cpp
+C:\Users\VITUK\source\repos\lab_07.3_rec\lab_07.3_rec\lab_07.3_rec.cpp(105,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest_07.3_rec.cpp')
+  
+  UnitTest_07.3_rec.vcxproj -> C:\Users\VITUK\source\repos\lab_07.3_rec\x64\Debug\UnitTest_07.3_rec.dll
